@@ -1,4 +1,0 @@
-FirstProject
-============
-
-Exploring
